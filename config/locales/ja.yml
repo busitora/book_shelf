@@ -10,6 +10,14 @@ ja:
         publish_date: 発売日
         category_id: カテゴリー
         category: カテゴリー
+      user:
+        email: メールアドレス
+        nick_name: ニックネーム
+        avatar: プロフィール画像
+        password: パスワード
+        password_confirmation: パスワード再入力
+        current_password: 現在のパスワード
+        remember_me: ログイン情報を記録する
         description: 詳細  
         new_image: 画像
         image: 画像
