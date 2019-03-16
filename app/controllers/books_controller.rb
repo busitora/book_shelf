@@ -39,7 +39,7 @@ before_action :set_book, only: [:show, :edit, :update, :destroy]
   private
   
   def book_params
-    params.require(:book).permit(:title, :price, :publish_date, :description, :new_image)
+    params.require(:book).permit(:title, :price, :publish_date, :description, :new_image, :category_id)
   end
 
   def set_book

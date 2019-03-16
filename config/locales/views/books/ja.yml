@@ -4,6 +4,8 @@ ja:
       title: 書籍登録
     edit:
       title: 書籍更新  
+    form:
+      include_blank: カテゴリーを選択して下さい
     show:
       price: 価格
       price_yen: "¥%{price}"

@@ -8,6 +8,8 @@ ja:
         title: タイトル
         price: 価格
         publish_date: 発売日
+        category_id: カテゴリー
+        category: カテゴリー
         description: 詳細  
         new_image: 画像
         image: 画像
