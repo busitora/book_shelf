@@ -1,0 +1,17 @@
+ja:
+  reviews:
+    new:
+      title: レビュー登録
+    edit:
+      title: レビュー更新
+    form:
+      back: 戻る
+    show:
+      title: カスタマーレビュー
+      edit: 編集
+      back: 戻る
+      delete: 削除
+      modal_title: レビュー削除
+      question_review: "%{review}を削除しますか？"
+      delete_action: 削除する
+      chancel: キャンセル    

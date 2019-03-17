@@ -15,6 +15,14 @@ ja:
         nick_name: ニックネーム
         avatar: プロフィール画像
         password: パスワード
+      review:
+        title: タイトル
+        body: 本文
+        evaluation: 評価
+        book_id: 書籍
+        book: 書籍
+        user_id: ユーザー
+        user: ユーザ  
         password_confirmation: パスワード再入力
         current_password: 現在のパスワード
         remember_me: ログイン情報を記録する
