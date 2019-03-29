@@ -14,6 +14,7 @@ before_action :set_book, only: [:edit, :update, :destroy]
   def create
     @book = Book.new(book_params)
     if @book.save
+      
       redirect_to @book, notice: "書籍を登録しました。"
     else
       render :new
